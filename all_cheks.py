@@ -2,6 +2,7 @@
 
 def main():
   print("Hello Python")
+  print("Hello")
 
 
 if name__ == "__main__":
