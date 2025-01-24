@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 
 def main():
-  pass
+  print("Hello Python")
 
 
 if name__ == "__main__":
