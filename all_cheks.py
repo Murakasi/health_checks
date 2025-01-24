@@ -5,5 +5,6 @@ def main():
 
 
 if name__ == "__main__":
+  print("Hello from main")
   main()
 
